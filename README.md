@@ -1,9 +1,11 @@
 # Analise_Marketing_Bank_SQL
 Análise de dados de campanha de marketing bancário utilizando SQL, com foco na identificação de fatores que influenciam a conversão de clientes. Exploração de perfil, comportamento e estratégias de contato para geração de insights e otimização de campanhas.
 
-Arquivos 
+------------------------------------------------------------------------------------------------------------------------------------
 A apresentação pode ser visto no arquivo "Análise - Campanha de Marketing do Banco.pdf" 
 Os demais arquivos são os códigos em SQL para analisar os dados, assim como base de dados e tabelas resultantes da consulta.
+
+------------------------------------------------------------------------------------------------------------------------------------
 
 🧩 Análise de Campanha de Marketing Bancário — SQL + Excel + PowerPoint 
 
@@ -15,6 +17,7 @@ A análise foi conduzida utilizando SQL para exploração e tratamento dos dados
 
 O foco do projeto foi aplicar lógica analítica e storytelling com dados, transformando informações de clientes e interações em insights estratégicos para otimização de campanhas.
 
+------------------------------------------------------------------------------------------------------------------------------------
 
 🎯 Problema de Negócio
 
@@ -52,6 +55,7 @@ Qual é a taxa de conversão da campanha?
 
 Há espaço para otimização?
 
+------------------------------------------------------------------------------------------------------------------------------------
 
 🧠 Estrutura Analítica (SQL)
 
@@ -67,12 +71,14 @@ CTEs (WITH) → organização das análises por etapa
 
 Window Functions → cálculo de participações e proporções
 
+------------------------------------------------------------------------------------------------------------------------------------
 
 📊 Visualizações (Excel)
 
 Os gráficos foram desenvolvidos no Excel, priorizando clareza e foco nos insights:
 As visualizações foram construídas a partir das saídas das queries.
 
+------------------------------------------------------------------------------------------------------------------------------------
 
 🎨 Apresentação (PowerPoint)
 
@@ -86,6 +92,7 @@ Comparação entre eficiência e escala
 
 Insights acionáveis para tomada de decisão
 
+------------------------------------------------------------------------------------------------------------------------------------
 
 📝 Principais Descobertas
 
@@ -105,6 +112,7 @@ A conversão é maior no primeiro contato, com queda significativa após múltip
 
 Existe um padrão consistente de trade-off entre eficiência e escala
 
+------------------------------------------------------------------------------------------------------------------------------------
 
 📌 Recomendações Estratégicas
 
@@ -118,6 +126,7 @@ Direcionar campanhas para clientes com melhor perfil financeiro
 
 Utilizar segmentação para equilibrar eficiência e volume
 
+------------------------------------------------------------------------------------------------------------------------------------
 
 🚀 Conclusão
 
