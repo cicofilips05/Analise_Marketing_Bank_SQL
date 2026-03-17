@@ -1,6 +1,10 @@
 # Analise_Marketing_Bank_SQL
 Análise de dados de campanha de marketing bancário utilizando SQL, com foco na identificação de fatores que influenciam a conversão de clientes. Exploração de perfil, comportamento e estratégias de contato para geração de insights e otimização de campanhas.
 
+Arquivos 
+A apresentação pode ser visto no arquivo "Análise - Campanha de Marketing do Banco.pdf" 
+Os demais arquivos são os códigos em SQL para analisar os dados, assim como base de dados e tabelas resultantes da consulta.
+
 🧩 Análise de Campanha de Marketing Bancário — SQL + Excel + PowerPoint 
 
 📖 Introdução
