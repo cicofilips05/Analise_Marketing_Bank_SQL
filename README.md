@@ -67,19 +67,6 @@ Window Functions → cálculo de participações e proporções
 📊 Visualizações (Excel)
 
 Os gráficos foram desenvolvidos no Excel, priorizando clareza e foco nos insights:
-
-📊 Taxa de conversão geral
-
-👤 Conversão por profissão (treemap)
-
-🎂 Conversão por faixa etária (barras)
-
-💰 Conversão por faixa de saldo
-
-🏦 Perfil de crédito (tabela comparativa)
-
-📞 Conversão por número de contatos
-
 As visualizações foram construídas a partir das saídas das queries.
 
 
