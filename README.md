@@ -11,6 +11,7 @@ A análise foi conduzida utilizando SQL para exploração e tratamento dos dados
 
 O foco do projeto foi aplicar lógica analítica e storytelling com dados, transformando informações de clientes e interações em insights estratégicos para otimização de campanhas.
 
+
 🎯 Problema de Negócio
 
 Campanhas de marketing frequentemente apresentam baixa taxa de conversão, gerando custos elevados e baixa eficiência.
@@ -47,6 +48,7 @@ Qual é a taxa de conversão da campanha?
 
 Há espaço para otimização?
 
+
 🧠 Estrutura Analítica (SQL)
 
 Toda a análise foi realizada em SQL, utilizando:
@@ -60,6 +62,7 @@ CASE WHEN → criação de categorias (faixas etárias, saldo, contatos)
 CTEs (WITH) → organização das análises por etapa
 
 Window Functions → cálculo de participações e proporções
+
 
 📊 Visualizações (Excel)
 
@@ -79,6 +82,7 @@ Os gráficos foram desenvolvidos no Excel, priorizando clareza e foco nos insigh
 
 As visualizações foram construídas a partir das saídas das queries.
 
+
 🎨 Apresentação (PowerPoint)
 
 A apresentação foi estruturada com foco em comunicação executiva e storytelling:
@@ -90,6 +94,7 @@ Identificação de grupos estratégicos
 Comparação entre eficiência e escala
 
 Insights acionáveis para tomada de decisão
+
 
 📝 Principais Descobertas
 
@@ -109,6 +114,7 @@ A conversão é maior no primeiro contato, com queda significativa após múltip
 
 Existe um padrão consistente de trade-off entre eficiência e escala
 
+
 📌 Recomendações Estratégicas
 
 Priorizar segmentos com alta taxa de conversão (ex: idosos, aposentados)
@@ -121,8 +127,8 @@ Direcionar campanhas para clientes com melhor perfil financeiro
 
 Utilizar segmentação para equilibrar eficiência e volume
 
+
 🚀 Conclusão
 
 Este projeto demonstra como a análise de dados pode ser aplicada para otimizar campanhas de marketing, identificando padrões claros de comportamento dos clientes.
-
 Os resultados mostram que a conversão depende tanto do perfil do cliente quanto da estratégia adotada, sendo essencial equilibrar eficiência e escala para maximizar os resultados.
